@@ -8,6 +8,6 @@ https://www.youtube.com/channel/UCi1mEKq_tlYkUIFgVF6lhhA/videos
 https://www.youtube.com/user/mycodeschool/videos 
 https://www.youtube.com/channel/UCYvQTh9aUgPZmVH0wNHFa1A/videos https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA
 
-Please feel free to download or share the material as you like. Also please do not hesitate to let me know if you find a flaw in any of the code snippets.
+Please feel free to download and share the material as you like. Also please do not hesitate to let me know if you find a flaw in any of the code snippets.
 
 Happy Learning!!
