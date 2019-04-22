@@ -1,4 +1,4 @@
-I am an experienced Back-end Engineer who ventured into Data Analytics couple of years back. I am trying to get back into Software Development and took time off to prepare for SWE interviews. This is a repository created for my reference during preparation, and made it public so it helps anyone preparing for the interviews.
+I am an experienced Back-end Engineer who ventured into Data Analytics couple of years back. I am trying to get back into Software Engineering and took time off to prepare for SWE interviews. This is a repository created for my reference during preparation, and made it public so it helps anyone preparing for the interviews.
 
 I have referred to a lot of material available online (on YouTube, Medium, etc.), the top 6 YouTube handles being:
 
